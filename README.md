@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadfaseeh2002" alt="muhammadfaseeh2002" /></a> </p>
 
-- 🔭 I’m currently working on [TestIT](https://testify-client.vercel.app/)
+- 🔭 I’m currently working on [TestIT](https://testify-client.vercel.app/) & [Investify]([https://testify-client.vercel.app/](https://github.com/MuhammadFASEEH2002/Investify))
 
 - 🌱 I’m currently learning **React with Typescript**
 
